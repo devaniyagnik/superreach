@@ -52,7 +52,7 @@ This project involves the development of a responsive website based on designs f
 
 Include a preview or screenshot of the website to give viewers a glimpse of the project.
 
-![SuperReach Website](![image](https://github.com/yagnikdevani00/superreach/assets/133557751/ca33e8f4-76b7-40cc-b3c4-78226df1d269))
+![image](https://github.com/yagnikdevani00/superreach/assets/133557751/ca33e8f4-76b7-40cc-b3c4-78226df1d269)
 
 
 ## Contributing
